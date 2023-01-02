@@ -1,0 +1,37 @@
+
+.input{
+  width:500px !important;
+  margin-top: 200px;
+}
+.submit{
+  text-align: center;
+}
+.tab{
+  width: 200px;
+}
+.add_button{
+  width:40px;
+}
+.heading{
+  width: 200px;
+}
+.items{
+  vertical-align: middle;
+}
+.checkbox{
+  height:20px;
+  width:20px;
+}
+.register_form{
+  width:500px !important;
+}
+.register{
+  text-decoration: none;
+}
+.footer{
+  text-align: right;
+}
+.table-bordered{
+  width: 800px;
+
+}
